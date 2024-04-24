@@ -177,17 +177,13 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "iPhone Recreate",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Recreation of Apple iPhone 15 Website using React/Three.js/Tailwind and demonstrating my skills with it.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
         },
         {
           name: "tailwind",
@@ -195,7 +191,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://iphoneweb.vercel.app/",
     },
     {
       name: "Job IT",
@@ -216,28 +212,28 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "#",
     },
     {
-      name: "Trip Guide",
+      name: "Restaurant Website",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A comprehensive restaurant order/delivery website that allows users to see the restaurants menu, login/signup, and order some food.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "express",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "#",
     },
   ];
   
